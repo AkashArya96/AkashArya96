@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif" alt="banner">
 </div>
 
-<h1 align="center">Hi 👋, I'm Akash Arya</h1>
+<h1 align="center">Hi 👋, I'm Akash Arya...!!!</h1>
 <h3 align="center">A passionate AI/ML Enthusiast from India</h3>
 <img align='right' alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
