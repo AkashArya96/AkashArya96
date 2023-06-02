@@ -1,4 +1,4 @@
-![MasterHead](https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX41566849.jpg)
+![MasterHead](https://giphy.com/gifs/digital-brain-ai-PjJ1cLHqLEveXysGDB/fullscreen.gif)
 <h1 align="center">Hi 👋, I'm Akash Arya</h1>
 <h3 align="center">A passionate AI/ML Enthusiast from India</h3>
 <img align='right' alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
